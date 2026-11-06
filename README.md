@@ -33,5 +33,3 @@ Como equipo, establecemos los siguientes acuerdos para mantener una buena organi
 Proyecto: Sistema de Gestión de Tareas Escolares
 Equipo: 4
 Metodología de desarrollo: Extreme Programming (XP)
-Asignatura: Gestión del Proceso de Desarrollo de Software
-Semestre: 5.º semestre – Ingeniería en Sistemas y Tecnologías de la Información
